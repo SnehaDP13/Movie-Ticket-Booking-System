@@ -568,13 +568,13 @@ Additional project explanation and implementation notes are available in [`bmt-e
 
 ## 👩‍💻 Author
 
-**Shravya S Rao**
+**Sneha D P**
 Full-Stack Developer
 
 Core interests: Java · Spring Boot · React.js · Full-Stack Development · SQL · Cloud Technologies · Software Engineering
 
-- GitHub: [github.com/shravyasrao](https://github.com/shravyasrao)
-- Project Repository: [github.com/shravyasrao/Book-My-Ticket](https://github.com/shravyasrao/Book-My-Ticket)
+- GitHub: https://github.com/SnehaDP13
+
 
 ---
 
